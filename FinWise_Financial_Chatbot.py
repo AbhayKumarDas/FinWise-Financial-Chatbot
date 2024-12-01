@@ -6,7 +6,7 @@ from sentence_transformers import SentenceTransformer, util
 import torch
 
 # Set the API key and base URL for NVIDIA Palmyra API
-API_KEY = "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"
+API_KEY = "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"
 API_ENDPOINT = "https://integrate.api.nvidia.com/v1/chat/completions"
 
 # Set the project name
